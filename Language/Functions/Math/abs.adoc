@@ -33,7 +33,7 @@ Calculates the absolute value of a number.
 === Returns
 `x`: if x is greater than or equal to 0.
 
-`-x`: if x is less than 0.
+`-x`: if x is less than 0. (this is correct C++ defines the return value of abs(x) as ALWAYS positive)
 
 --
 // OVERVIEW SECTION ENDS
